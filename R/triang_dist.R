@@ -83,6 +83,7 @@ qtriang <- function(p, min, max, mode) {
 #' @param mode the mode of the distribution (c).
 #'
 #' @return A numeric vector of random values.
+#' @importFrom stats runif
 #' @export
 rtriang <- function(n, min, max, mode) {
 
