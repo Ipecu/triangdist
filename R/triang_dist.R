@@ -71,3 +71,4 @@ qtriang <- function(p, min, max, mode) {
 
   return(quantiles)
 }
+
